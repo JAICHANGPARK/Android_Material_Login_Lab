@@ -2,10 +2,38 @@
 
 ## Using android x
 
-<img src="https://github.com/JAICHANGPARK/Android_Material_Login_Lab/blob/master/MaterialLoginLab/device-2018-10-13-013705.png" width="300">
+### MaterialLoginLab
 
-<img src="https://github.com/JAICHANGPARK/Android_Material_Login_Lab/blob/master/MaterialLoginLab/device-2018-10-13-013727.png" width="300">
+<div style="text-align: center">
+<table>
+    <tr>
+      <td style="text-align: center">
+          <img src="https://github.com/JAICHANGPARK/Android_Material_Login_Lab/blob/master/MaterialLoginLab/device-2018-10-13-013705.png" width="300">
+      </td>
+      <td style="text-align: center">
+          <img src="https://github.com/JAICHANGPARK/Android_Material_Login_Lab/blob/master/MaterialLoginLab/device-2018-10-13-013727.png" width="300">
+      </td>
+    </td>
+    </tr>
+    </table>
+</div>
 
+## Using Kotlin
+### SignupAndSignIn
+
+<div style="text-align: center">
+<table>
+    <tr>
+      <td style="text-align: center">
+          <img src="https://github.com/JAICHANGPARK/Android_Material_Login_Lab/blob/master/SignupAndSignIn/device-2018-10-13-224836.png" width="300">
+      </td>
+      <td style="text-align: center">
+          <img src="https://github.com/JAICHANGPARK/Android_Material_Login_Lab/blob/master/SignupAndSignIn/device-2018-10-13-232431.png" width="300">
+      </td>
+    </td>
+    </tr>
+    </table>
+</div>
 
 # Ref.
 
