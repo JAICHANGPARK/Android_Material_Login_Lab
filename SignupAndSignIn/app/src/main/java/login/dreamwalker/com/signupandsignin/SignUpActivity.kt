@@ -26,11 +26,10 @@ class SignUpActivity : AppCompatActivity() {
             val passwordAgain = password_check_edt.text.toString()
             var check = false
 
-
             log.warn { email }
 
-            if (username.isEmpty()){
-                username_edt.error ="사용할 ID를 입력해주세요"
+            if (username.isEmpty()) {
+                username_edt.error = "사용할 ID를 입력해주세요"
                 check = true
             }
 
@@ -62,14 +61,11 @@ class SignUpActivity : AppCompatActivity() {
                 check = true
             }
 
-            if (check){
+            if (check) {
                 toast("실패")
-            }else{
+            } else {
                 toast("등록 성공")
             }
-
-
-
 
         }
 
